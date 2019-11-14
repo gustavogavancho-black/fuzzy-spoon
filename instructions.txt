@@ -4,4 +4,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin rhoncus id mauris
 
 Please refer to the website for more instructions.
 
-gustavogavancho-black made some changes here!
+Change made in sample-branch.
